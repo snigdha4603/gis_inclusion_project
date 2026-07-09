@@ -1,0 +1,39 @@
+Question,Label,Period,n,Mean,SD
+Q2.2,Curriculum represents diverse perspectives,Before,7,3.286,0.756
+Q2.2,Curriculum represents diverse perspectives,After,25,3.16,0.8
+Q2.3,Balanced gender diversity,Before,7,3.429,0.535
+Q2.3,Balanced gender diversity,After,25,3.08,0.862
+Q2.4,Balanced diverse demographics,Before,7,3.714,0.488
+Q2.4,Balanced diverse demographics,After,25,3.2,0.707
+Q2.5,Balanced geographic regions,Before,7,3.143,1.069
+Q2.5,Balanced geographic regions,After,25,3.2,0.866
+Q2.7,Understanding social/cultural issues,Before,7,3.143,0.378
+Q2.7,Understanding social/cultural issues,After,25,3.32,0.69
+Q3.2,Case studies from diverse groups,Before,7,3.0,1.0
+Q3.2,Case studies from diverse groups,After,25,3.04,0.676
+Q3.3,Case studies on gender diversity,Before,7,2.714,0.951
+Q3.3,Case studies on gender diversity,After,25,2.64,0.86
+Q3.5,Case studies on diverse geographies,Before,7,3.714,0.488
+Q3.5,Case studies on diverse geographies,After,25,3.36,0.638
+Q3.6,Case studies on diverse demographics,Before,7,3.286,1.113
+Q3.6,Case studies on diverse demographics,After,25,3.32,0.802
+Q3.7,Case studies on social/cultural issues,Before,7,3.286,0.756
+Q3.7,Case studies on social/cultural issues,After,25,3.36,0.7
+Q4.2,Materials on diverse groups,Before,7,3.143,1.069
+Q4.2,Materials on diverse groups,After,25,3.08,0.702
+Q4.3,Materials on gender diversity,Before,7,2.571,1.134
+Q4.3,Materials on gender diversity,After,25,2.64,0.907
+Q4.4,Materials on diverse geographies,Before,7,3.571,0.535
+Q4.4,Materials on diverse geographies,After,25,3.28,0.614
+Q4.5,Materials on diverse demographics,Before,7,3.286,1.113
+Q4.5,Materials on diverse demographics,After,25,3.24,0.663
+Q5.3,Diverse perspectives in lectures,Before,7,3.857,0.69
+Q5.3,Diverse perspectives in lectures,After,25,3.4,0.816
+Q5.4,Diverse perspectives in demos,Before,7,4.571,0.787
+Q5.4,Diverse perspectives in demos,After,25,3.52,0.823
+Q5.5,Diverse perspectives in homework,Before,7,4.571,0.535
+Q5.5,Diverse perspectives in homework,After,25,3.56,0.87
+Q5.6,Diverse perspectives in final projects,Before,7,4.571,0.535
+Q5.6,Diverse perspectives in final projects,After,25,3.84,0.85
+Q5.7,Connect GIS skills to societal problems,Before,7,4.286,0.756
+Q5.7,Connect GIS skills to societal problems,After,25,4.08,0.812

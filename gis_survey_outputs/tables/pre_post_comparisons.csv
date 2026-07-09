@@ -1,0 +1,7 @@
+Index,Before Mean,After Mean,Difference,Percent Change,Mann-Whitney U,p-value,Cohen's d
+Curriculum Representation,3.393,3.16,-0.233,-6.9,107.0,0.3811,-0.361
+Inclusive Case Studies,3.2,3.144,-0.056,-1.8,98.5,0.6297,-0.093
+Inclusive Course Materials,3.143,3.06,-0.083,-2.6,102.0,0.5199,-0.144
+Inclusive Teaching Activities,4.393,3.58,-0.813,-18.5,154.0,0.0024,-1.421
+Responsible Spatial Practice,3.714,3.7,-0.014,-0.4,83.5,0.8675,-0.025
+Overall Inclusive GIS Curriculum Score,3.569,3.329,-0.24,-6.7,118.0,0.1713,-0.514
